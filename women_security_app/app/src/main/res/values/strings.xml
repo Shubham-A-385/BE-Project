@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Women Security App</string>
-    <string name="map_key">AIzaSyC2SYO4xHA6H2xEdc1dS7x_isoTOkEpVIg</string>
+    <string name="map_key">my_map_key</string>
 
     <string name="first">1.woman must have all the emergency numbers with them and WhatsApp also if possible so that they can immediately tell to their family members and polices.</string>
 
